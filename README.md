@@ -5,5 +5,6 @@
 - ✍️ Hope to became Full Stack Developer one day.
 
 🛠 Tech knowledge
-- 💻 Java and Python Basics
+- 💻 Advanced Java and Python Enthusiast
+- 👨🏻‍💻 Intermediate C, C++ Programmer
 - 🌐 HTML, CSS, JavaScript Basics
