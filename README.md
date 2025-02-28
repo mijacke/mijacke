@@ -6,5 +6,3 @@
 
 🛠 Tech knowledge
 - 💻 Advanced Java and Python Enthusiast
-- 👨🏻‍💻 Intermediate C, C++ Programmer
-- 🌐 HTML, CSS, JavaScript Basics
