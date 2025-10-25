@@ -16,5 +16,5 @@ Builder mindset → **web (Nuxt/Vue/Laravel)** · **AI/ML & CV (PyTorch, GANs)**
 
 ## 🙋 About me
 - 🎓 Computer Science @ UNIZA  
-- 🔭 Rád skúšam nové technológie a robím veci end-to-end.  
-- ✍️ Cieľ: **Full-Stack/AI Developer** s dôrazom na čistý kód a UX.
+- 🔭 Rád skúšam nové technológie
+- ✍️ Cieľ: **Full-Stack/AI Developer** 
