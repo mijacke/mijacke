@@ -2,7 +2,7 @@
 
 Builder mindset → **web (Nuxt/Vue/Laravel)** · **AI/ML & CV (PyTorch, GANs)** · **simulácie (AnyLogic)** · **IoT (Arduino/RPi)**
 
-## 🛠 Tech stack (modern)
+## 🛠 Tech stack
 **Jazyky:** `TypeScript` · `JavaScript` · `Python` · `Java` · `PHP` · `C#`  
 **Frontend:** `Vue` · `Nuxt` · `React` · `Tailwind CSS` · `Vite`  
 **Backend:** `Node.js` · `NestJS` · `Laravel` · `Express`  
