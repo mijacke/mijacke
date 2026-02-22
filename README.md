@@ -1,4 +1,4 @@
-# 👋 Ahoj, ja som Mario!
+# 👋 Nazdar!
 
 🎓 **Computer Science @ University of Žilina (UNIZA)**  
 🔭 Sústredím sa na prepojenie **moderných webových technológií** s **umelou inteligenciou**.  
