@@ -44,7 +44,3 @@
 - Sledujem aktuálne trendy: Rád experimentujem s runtimami ako `Bun` a `Deno`.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mijacke&show_icons=true&theme=transparent&hide_border=true" alt="Mario's GitHub Stats" />
-</p>
