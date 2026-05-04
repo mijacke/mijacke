@@ -34,13 +34,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### 🧠 AI, ML & tooling
-- **Frameworky:** `PyTorch` · `Scikit-learn` · `Pandas` · `NumPy` · `OpenCV` 
-- **AI Integrácie:** `Model Context Protocol (MCP)` · LLM deployment (lokálne napr. `Qwen`)
-- **Mapy & 3D Geo:** `MapLibre GL JS` · `Threebox`
+### 🧠 AI Engineering & LLMs (State-of-the-Art 2026)
+- **Agentic Workflows:** `Model Context Protocol (MCP)` · `LangGraph` / `LlamaIndex`
+- **AI Integrácie & UI:** `Vercel AI SDK` (Generative UI) · RAG Architectures
+- **Lokálny & Edge Inference:** `Ollama` · `vLLM` · Custom tuning (napr. `Qwen`, `Llama-3`)
+- **Vektorové DB:** `pgvector` · `Qdrant` / `Pinecone`
+- **Core ML:** `PyTorch` · `Scikit-learn` · `Pandas` · `NumPy` · `OpenCV`
 
-### 🔧 DevOps & Experimenty
-- `Docker` · `GitHub Actions` · `WSL2`
-- Sledujem aktuálne trendy: Rád experimentujem s runtimami ako `Bun` a `Deno`.
+### 🌍 Mapy & 3D Geo
+- `MapLibre GL JS` · `Threebox` · Vizualizácia komplexných priestorových dát v reálnom čase.
+
+### 🔧 DevOps & Tooling
+- `Docker` · `GitHub Actions` (aj pre AI testovacie pipelines) · `WSL2`
 
 ---
